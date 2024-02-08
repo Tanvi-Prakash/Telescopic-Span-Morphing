@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Studies in Telescopic Span Moprhing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tanvi Prakash
+    email: tanvi.prakash@iitb.ac.in
+    name-particle: Tanvi
+    family-names: Prakash
+    affiliation: IIT Bombay
+    orcid: 'https://orcid.org/0000-0003-1454-2815'
+repository-code: 'https://github.com/Tanvi-Prakash/Telescopic-Span-Morphing'
+url: 'https://www.tanviprakash.com'
+license: MIT
+commit: R0
+version: 1.20.0
+date-released: '2024-02-11'
